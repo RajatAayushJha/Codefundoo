@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dummy</string>
+    <string name="link">
+       <a href="https://www.google.com/maps/d/edit?mid=1saMolKB4Z3EPu-oWuf7_bq-9fM1w0bL7&ll=30.297927030646264%2C-97.77397830000001&z=11"> Flooded Areas Near You</a>
+    </string>
+    <string name="link2">
+        <a href="https://www.google.com/maps/d/edit?mid=1LVhyks-FVD6SJZbaoFJmLvZc20dJXoxd&ll=30.30466962009664%2C-97.75069840000003&z=14" >Relief Camps and Medical Camps</a>
+    </string>
+</resources>
+`
